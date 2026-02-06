@@ -28,7 +28,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:title/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 repository: wps-thespians/wps-thespians.github.io
-url: https://wps-thespians.github.io
+url: https://wpsthespians.com
 
 include:
   - _pages
