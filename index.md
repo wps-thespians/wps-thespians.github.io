@@ -12,11 +12,9 @@ feature_row:
     alt: "The SpongeBob Musical"
     title: "The SpongeBob Musical"
     excerpt: >- 
-        Plunge into this stunning all-singing, all-dancing, dynamic stage show! When the citizens of Bikini Bottom discover that a volcano will soon erupt and destroy their humble home, SpongeBob and his friends must come together to save the fate of their undersea world. With lives hanging in the balance and all hope lost, a most unexpected hero rises up. The power of optimism really can save the world!
-        **Auditons open now!**
+        Plunge into this stunning all-singing, all-dancing, dynamic stage show! When the citizens of Bikini Bottom discover that a volcano will soon erupt and destroy their humble home, SpongeBob and his friends must come together to save the fate of their undersea world. With lives hanging in the balance and all hope lost, a most unexpected hero rises up. The power of optimism really can save the world!  
+        **Check back soon for the poster contest!**
     url: "/posts/spongebob-auditions"
-    btn_label: "Auditon info"
-    btn_class: "btn--primary"
 fname: "WPS Thespians"
 ---
 <div class="text-center" markdown="1">
