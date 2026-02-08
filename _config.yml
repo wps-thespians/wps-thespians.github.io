@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: WPS Thespians
-github_username: TheBestWebsite
+github_username: wps-thespians
 minimal_mistakes_skin: willows
 search: true
 logo: "/assets/images/favicons/favicon-96x96.png"
