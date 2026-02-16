@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/wrinkle-saturday-splash.jpg
 excerpt: "The theatre program of Willows Preparatory School in Redmond, Washington"
 feature_row:
-  - image_path: /assets/images/SpongeBob-auditions-logo.png
+  - image_path: /assets/images/SpongeBob-pre-poster.jpeg
     alt: "The SpongeBob Musical"
     title: "The SpongeBob Musical"
     excerpt: >- 
