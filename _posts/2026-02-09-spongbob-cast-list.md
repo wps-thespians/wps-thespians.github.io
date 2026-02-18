@@ -1,12 +1,13 @@
 ---
 title: SpongeBob Cast and Crew list!
 date: 2026-02-09T07:30-08:00
+excerpt: The SpongeBob Cast and Crew list is out!
 ---
 
-The SpongeBob cast list has been released!  
+The SpongeBob cast & crew list has been released!  
 *A note from the webmaster:* Yes, I know this is appearing here late. Very late.  
   
-Oh, and [a pdf version.](/assets/info-packet-spongebob.pdf)
+Oh, and [a pdf version.](/assets/cast-list-spongebob.pdf)
 
 ## Cast
 
