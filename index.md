@@ -22,6 +22,9 @@ itf:
       Do you have a student who is currently in 6th - 12th grade who loves theatre? Do they want to see all the plays coming to town, be in all the shows and just do ALL things theatre? The International Thespian Festival may be just the thing for them!  
 
       **Registration open now!**
+    url: "/posts/itf-registration"
+    btn_label: "More info"
+    btn_class: "btn--primary"
 fname: "WPS Thespians"
 ---
 <div class="text-center" markdown="1">
