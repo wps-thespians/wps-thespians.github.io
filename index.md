@@ -13,7 +13,10 @@ spongebob:
     title: "The SpongeBob Musical"
     excerpt: >- 
         Plunge into this stunning all-singing, all-dancing, dynamic stage show! When the citizens of Bikini Bottom discover that a volcano will soon erupt and destroy their humble home, SpongeBob and his friends must come together to save the fate of their undersea world. With lives hanging in the balance and all hope lost, a most unexpected hero rises up. The power of optimism really can save the world!  
-        **Check back soon for the poster contest!**
+        **Tickets available now!**
+    url: "/tickets"
+    btn_label: "Tickets!"
+    btn_class: "btn--primary"
 itf:
   - image_path: /assets/images/ITF-2026-logo.jpg
     alt: "ITF is an Educational Theatre Association event."
