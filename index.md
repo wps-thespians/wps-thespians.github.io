@@ -8,14 +8,15 @@ header:
   overlay_image: /assets/images/wrinkle-saturday-splash.jpg
 excerpt: "The theatre program of Willows Preparatory School in Redmond, Washington"
 spongebob:
-  - image_path: /assets/images/SpongeBob-pre-poster.jpeg
-    alt: "The SpongeBob Musical"
+  - image_path: /assets/images/SpongeBob-poster.jpg
+    alt: "WPS Thespians Presents: Nickelodeon's The SpongeBob Musical"
     title: "The SpongeBob Musical"
     excerpt: >- 
         Plunge into this stunning all-singing, all-dancing, dynamic stage show! When the citizens of Bikini Bottom discover that a volcano will soon erupt and destroy their humble home, SpongeBob and his friends must come together to save the fate of their undersea world. With lives hanging in the balance and all hope lost, a most unexpected hero rises up. The power of optimism really can save the world!  
-        **Tickets available now!**
+          
+        Featuring songs from artists like *Panic! At the Disco,* John Legend, and Lady A, and starring an amazing cast from all grade levels, this is one play you are not going to want to miss! And this year, it's only on one weekend, with shows on May 15 and 16. So get your tickets now, and we'll see you there!
     url: "/tickets"
-    btn_label: "Tickets!"
+    btn_label: "Get tickets!"
     btn_class: "btn--primary"
 itf:
   - image_path: /assets/images/ITF-2026-logo.jpg
