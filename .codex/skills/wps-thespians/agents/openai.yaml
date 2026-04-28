@@ -1,0 +1,4 @@
+interface:
+  display_name: "WPS Thespians"
+  short_description: "Work on the WPS Thespians Jekyll site"
+  default_prompt: "Use $wps-thespians to update this website and verify the Jekyll build."

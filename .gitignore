@@ -1,4 +1,18 @@
-_site
-.sass-cache
+# Jekyll output and caches
+_site/
+.sass-cache/
+.jekyll-cache/
 .jekyll-metadata
+
+# Ruby/Bundler local installs
+.bundle/
+vendor/bundle/
 Gemfile.lock
+
+# Local browser test artifacts
+.playwright/
+.playwright-cli/
+test-results/
+
+# Local agent environment files
+environment.toml
