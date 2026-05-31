@@ -29,6 +29,12 @@ itf:
     url: "/posts/itf-registration"
     btn_label: "More info"
     btn_class: "btn--primary"
+inductions:
+  - image_path: /assets/images/thespian-inductions-2026.jpg
+    alt: "Save the Date - Thespian Inductions on June 5th, 2026 between 7 PM and 9:30 PM. Formal Dress encouraged!"
+    title: "Thespian Induction Cremony"
+    excerpt: >- 
+
 fname: "WPS Thespians"
 ---
 <div class="text-center" markdown="1">
